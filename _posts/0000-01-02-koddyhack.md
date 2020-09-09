@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ah que la neige a neigé!
 Use the left arrow to go back!
